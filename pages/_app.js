@@ -2,7 +2,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import '../styles/globals.css';
 import { useState } from 'react';
 import AppContext from '../AppContext';
-import languagesObject from '../languageObject';
+import languagesObject from '../languagesObject';
 
 function MyApp({ Component, pageProps }) {
 	const [languageSelected, setLanguageSelected] = useState('en');
