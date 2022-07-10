@@ -1,4 +1,4 @@
-This is the Context API in Next.js App practice
+This is a practice of Context API used in Next.js App.
 
 # Tech Stack
 
