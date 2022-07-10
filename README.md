@@ -9,7 +9,9 @@ This is the Context API in Next.js App practice
 # Deploy your own
 
 -   [Live Demo](https://example-next-context-api.vercel.app/)
--
+-   Deploy with Vercel:
+
+    [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Farealclimber%2Fexample-next-context-api&project-name=example-next-context-api&repo-name=example-next-context-api)
 
 # Acknowledgements
 
