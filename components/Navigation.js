@@ -35,7 +35,7 @@ export default function Navigation() {
 							</NavDropdown.Item>
 							<NavDropdown.Divider />
 							<NavDropdown.Item
-								onClick={() => valuse.setLanguageSelected('es')}
+								onClick={() => value.setLanguageSelected('es')}
 							>
 								Spanish
 							</NavDropdown.Item>
